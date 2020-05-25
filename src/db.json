@@ -109,6 +109,28 @@
             "battery": "4300 mAh",
             "memory": "128GB and RAM 6 GB",
             "img": "https://www.amazon.in/images/I/71G1FCIP1EL._SL1500_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Redmi Note 8",
+            "price": 14000,
+            "cpu": "2.0GHz Qualcomm Snapdragon 665-Octa Core",
+            "camera": "48mp (3264x2448)",
+            "display": "6.0 403 pixel density",
+            "battery": "4000 mAh",
+            "memory": "128GB and RAM 6 GB",
+            "img": "https://www.amazon.in/images/I/61Z-7BVaFUL._SL1500_.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Redmi Y3",
+            "price": 9200,
+            "cpu": "1.8GHz Qualcomm Snapdragon 632-Quad Core",
+            "camera": "32mp (3264x2448)",
+            "display": "6.0 269 pixel density",
+            "battery": "4000 mAh",
+            "memory": "64GB and RAM 4 GB",
+            "img": "https://www.amazon.in/images/I/71L9IZiJB9L._SL1500_.jpg"
         }
     ]
 }

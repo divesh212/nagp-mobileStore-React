@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is an online mobile store web application where a user can
+add mobiles to their cart and place orders. They can also filter the list of mobiles based on price and can also search a particular mobile by name.
+Only logged in users are allowed to place orders. Otherwise, they can still add mobiles to their cart and view cart. Once the order is placed, the cart will be cleared for a fresh order.
+
+## User Login Credentials in Application
+Username: *user1*
+Passowrd: *pass1*
 
 ## Available Scripts
 

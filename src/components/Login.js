@@ -67,7 +67,7 @@ class Login extends Component {
                 <input type="password" name="password" placeholder="Password" className="form-control" onChange={this.handleChange} />
               </div>
               {this.state.error!=null && 
-                <span>{this.state.error}</span>
+                <span style={{color: "red"}}>{this.state.error}</span>
               }
               <div>
                 <button class="btn btn-primary btn-dark">Login</button>
