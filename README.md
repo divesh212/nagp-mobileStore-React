@@ -4,7 +4,22 @@ Only logged in users are allowed to place orders. Otherwise, they can still add 
 
 ## User Login Credentials in Application
 Username: *user1*
-Passowrd: *pass1*
+Password: *pass1*
+
+## Pre-requisites
+db.json file contains the data that the fake json server sends to the client. This file is also present under the “src” folder of the project.
+Run the following command from the project root folder to start the fake server – 
+
+`json-server --watch src/db.json --port 3004`
+
+Obviously, you would first need to install json-server from npm -
+
+`npm install -g json-server`
+
+Make sure to run this server on port 3004 as the URL from which the data is fetched is hard-coded in the application.
+
+Also, make sure you are connected to the Internet while running the application as all the images are being fetched from the internet with the font-awesome icons.
+
 
 ## Available Scripts
 
