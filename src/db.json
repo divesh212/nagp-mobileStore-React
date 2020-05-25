@@ -1,0 +1,114 @@
+{
+    "mobiles": [
+        {
+            "id": 1,
+            "name": "Apple iPhone 11 Pro",
+            "price": 115000,
+            "cpu": "1.5GHz Apple A9",
+            "camera": "48mp (3264x2448)",
+            "display": "9.0 881 pixel density",
+            "battery": "2480 mAh",
+            "memory": "64GB, 128GB and RAM 8 GB",
+            "img": "https://www.amazon.in/images/I/61ers6OzvUL._SL1024_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone XR",
+            "price": 65000,
+            "cpu": "1.4GHz Apple A8",
+            "camera": "32mp (3264x2448)",
+            "display": "8.0 792 pixel density",
+            "battery": "2380 mAh",
+            "memory": "32GB, 64GB and RAM 4 GB",
+            "img": "https://www.amazon.in/images/I/519KIlHA2wL._SL1024_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Apple iPhone XS",
+            "price": 85000,
+            "cpu": "1.4GHz Apple A8",
+            "camera": "32mp (3264x2448)",
+            "display": "8.0 792 pixel density",
+            "battery": "2280 mAh",
+            "memory": "32GB, 64GB, 128GB and RAM 4 GB",
+            "img": "https://www.amazon.in/images/I/61SHHA-IhYL._SL1000_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "OnePlus 7T Pro",
+            "price": 48000,
+            "cpu": "1.8GHz Snapdragon 840",
+            "camera": "48mp (3264x2448)",
+            "display": "9.0 881 pixel density",
+            "battery": "4085 mAh",
+            "memory": "64GB, 128GB and RAM 8 GB",
+            "img": "https://www.amazon.in/images/I/61FRLa8IFTL._SL1500_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "OnePlus 7T",
+            "price": 35000,
+            "cpu": "1.7GHz Snapdragon 740",
+            "camera": "32mp (3264x2448)",
+            "display": "8.0 792 pixel density",
+            "battery": "3800 mAh",
+            "memory": "32GB, 64GB and RAM 4 GB",
+            "img": "https://www.amazon.in/images/I/71ncRs6HzyL._SL1500_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "OnePlus 6",
+            "price": 32000,
+            "cpu": "1.6GHz Snapdragon 540",
+            "camera": "32mp (3264x2448)",
+            "display": "8.0 792 pixel density",
+            "battery": "3600 mAh",
+            "memory": "32GB, 64GB, 128GB and RAM 4 GB",
+            "img": "https://www.amazon.in/images/I/81gJMoFPT1L._SL1500_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Samsung Galaxy M21",
+            "price": 15000,
+            "cpu": "2.3GHz Exynos 9611-Octa Core",
+            "camera": "48mp (3264x2448)",
+            "display": "6.0 403 pixel density",
+            "battery": "6000 mAh",
+            "memory": "128GB and RAM 6 GB",
+            "img": "https://www.amazon.in/images/I/71dujTTJDZL._SL1500_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Samsung Galaxy M31",
+            "price": 17000,
+            "cpu": "2.4GHz Exynos 9611-Octa Core",
+            "camera": "48mp (3264x2448)",
+            "display": "6.0 403 pixel density",
+            "battery": "6000 mAh",
+            "memory": "128GB and RAM 6 GB",
+            "img": "https://www.amazon.in/images/I/71-Su4Wr0HL._SL1500_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Samsung Galaxy Note10 Lite",
+            "price": 42000,
+            "cpu": "2.4GHz Exynos 9911-Octa Core",
+            "camera": "48mp (3264x2448)",
+            "display": "6.0 403 pixel density",
+            "battery": "4500 mAh",
+            "memory": "128GB and RAM 6 GB",
+            "img": "https://www.amazon.in/images/I/71nUj6kF%2BML._SL1500_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Samsung Galaxy Note10+",
+            "price": 84200,
+            "cpu": "2.7GHz Exynos 9825-Octa Core",
+            "camera": "48mp (3264x2448)",
+            "display": "6.0 498 pixel density",
+            "battery": "4300 mAh",
+            "memory": "128GB and RAM 6 GB",
+            "img": "https://www.amazon.in/images/I/71G1FCIP1EL._SL1500_.jpg"
+        }
+    ]
+}
